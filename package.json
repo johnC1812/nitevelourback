@@ -1,0 +1,11 @@
+{
+  "name": "nitevelour",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "sync:models": "node tools/sync_models.mjs --max 10000",
+    "build": "node tools/build.mjs",
+    "deploy": "npx wrangler pages deploy"
+  },
+  "license": "ISC"
+}

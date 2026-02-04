@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.vite/
+.next/
+.vercel/
+.DS_Store
+*.log
+.env
+.env.*
+.wrangler/

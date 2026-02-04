@@ -1,0 +1,268 @@
+{
+  "siteName": "NiteVelour",
+  "domain": "https://www.nitevelour.com",
+  "brandTagline": "Live cam directory and curated adult guides.",
+  "primaryCTA": {
+    "label": "Enter Live Cams",
+    "href": "/go/cams?pos=nav"
+  },
+  "home": {
+    "defaultView": "live",
+    "liveNow": {
+      "size": 24
+    }
+  },
+  "crak": {
+    "brands": [
+      "stripchat",
+      "chaturbate",
+      "awempire",
+      "streamate"
+    ]
+  },
+  "categories": [
+    {
+      "slug": "women",
+      "label": "Women"
+    },
+    {
+      "slug": "couples",
+      "label": "Couples"
+    },
+    {
+      "slug": "men",
+      "label": "Men"
+    },
+    {
+      "slug": "trans",
+      "label": "Trans"
+    },
+    {
+      "slug": "fetish",
+      "label": "Fetish"
+    },
+    {
+      "slug": "bdsm",
+      "label": "BDSM"
+    },
+    {
+      "slug": "cosplay",
+      "label": "Cosplay"
+    },
+    {
+      "slug": "alt",
+      "label": "Alt / Goth"
+    },
+    {
+      "slug": "milf",
+      "label": "MILF"
+    },
+    {
+      "slug": "curvy",
+      "label": "Curvy"
+    },
+    {
+      "slug": "fitness",
+      "label": "Fitness"
+    },
+    {
+      "slug": "latina",
+      "label": "Latina"
+    },
+    {
+      "slug": "asian",
+      "label": "Asian"
+    }
+  ],
+  "guides": [
+    {
+      "slug": "best-live-cams",
+      "title": "Best Live Cams",
+      "intent": "high"
+    },
+    {
+      "slug": "best-free-cams",
+      "title": "Best Free Live Cams",
+      "intent": "high"
+    },
+    {
+      "slug": "cam-dating-guide",
+      "title": "Cam Dating Guide",
+      "intent": "high"
+    },
+    {
+      "slug": "new-to-cams",
+      "title": "New to Live Cams",
+      "intent": "info"
+    },
+    {
+      "slug": "how-to-stay-safe",
+      "title": "Staying Safe & Private",
+      "intent": "info"
+    },
+    {
+      "slug": "avoiding-scams",
+      "title": "Avoiding Scams & Impersonators",
+      "intent": "info"
+    },
+    {
+      "slug": "account-security",
+      "title": "Account Security & 2FA",
+      "intent": "info"
+    },
+    {
+      "slug": "payment-privacy",
+      "title": "Payments, Billing & Privacy",
+      "intent": "info"
+    },
+    {
+      "slug": "token-pricing-explained",
+      "title": "Tokens & Pricing Explained",
+      "intent": "info"
+    },
+    {
+      "slug": "how-to-tip",
+      "title": "How Tipping Works",
+      "intent": "info"
+    },
+    {
+      "slug": "private-show-tips",
+      "title": "Private Show Tips",
+      "intent": "info"
+    },
+    {
+      "slug": "budgeting-for-tips",
+      "title": "Budgeting for Tips",
+      "intent": "info"
+    },
+    {
+      "slug": "browser-troubleshooting",
+      "title": "Video & Browser Troubleshooting",
+      "intent": "info"
+    },
+    {
+      "slug": "mobile-data-saver",
+      "title": "How to Use Less Mobile Data",
+      "intent": "info"
+    },
+    {
+      "slug": "consent-etiquette",
+      "title": "Consent & Chat Etiquette",
+      "intent": "info"
+    },
+    {
+      "slug": "stripchat-guide",
+      "title": "Stripchat Guide",
+      "intent": "info"
+    },
+    {
+      "slug": "best-stripchat-models",
+      "title": "Best Stripchat Models",
+      "intent": "high"
+    },
+    {
+      "slug": "chaturbate-guide",
+      "title": "Chaturbate Guide",
+      "intent": "info"
+    },
+    {
+      "slug": "best-chaturbate-models",
+      "title": "Best Chaturbate Models",
+      "intent": "high"
+    },
+    {
+      "slug": "awempire-guide",
+      "title": "Awempire Guide",
+      "intent": "info"
+    },
+    {
+      "slug": "best-awempire-models",
+      "title": "Best Awempire Models",
+      "intent": "high"
+    },
+    {
+      "slug": "streamate-guide",
+      "title": "Streamate Guide",
+      "intent": "info"
+    },
+    {
+      "slug": "best-streamate-models",
+      "title": "Best Streamate Models",
+      "intent": "high"
+    },
+    {
+      "slug": "women-cams-guide",
+      "title": "Women Live Cams Guide",
+      "intent": "info"
+    },
+    {
+      "slug": "couples-cams-guide",
+      "title": "Couples Live Cams Guide",
+      "intent": "info"
+    },
+    {
+      "slug": "men-cams-guide",
+      "title": "Men Live Cams Guide",
+      "intent": "info"
+    },
+    {
+      "slug": "trans-cams-guide",
+      "title": "Trans Live Cams Guide",
+      "intent": "info"
+    },
+    {
+      "slug": "fetish-cams-guide",
+      "title": "Fetish Live Cams Guide",
+      "intent": "info"
+    },
+    {
+      "slug": "bdsm-cams-guide",
+      "title": "BDSM Live Cams Guide",
+      "intent": "info"
+    },
+    {
+      "slug": "cosplay-cams-guide",
+      "title": "Cosplay Live Cams Guide",
+      "intent": "info"
+    },
+    {
+      "slug": "alt-cams-guide",
+      "title": "Alt / Goth Live Cams Guide",
+      "intent": "info"
+    },
+    {
+      "slug": "milf-cams-guide",
+      "title": "MILF Live Cams Guide",
+      "intent": "info"
+    },
+    {
+      "slug": "curvy-cams-guide",
+      "title": "Curvy Live Cams Guide",
+      "intent": "info"
+    },
+    {
+      "slug": "fitness-cams-guide",
+      "title": "Fitness Live Cams Guide",
+      "intent": "info"
+    },
+    {
+      "slug": "latina-cams-guide",
+      "title": "Latina Live Cams Guide",
+      "intent": "info"
+    },
+    {
+      "slug": "asian-cams-guide",
+      "title": "Asian Live Cams Guide",
+      "intent": "info"
+    }
+  ],
+  "seo": {
+    "indexable": true,
+    "adultRatingMeta": true
+  },
+  "contact": {
+    "generalEmail": "contact@nitevelour.com",
+    "privacyEmail": "privacy@nitevelour.com",
+    "dmcaEmail": "dmca@nitevelour.com"
+  }
+}
